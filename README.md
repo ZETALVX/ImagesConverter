@@ -3,7 +3,7 @@ ImagesConverter is a free Windows Tool that allows you to convert any image to d
 
 JPG - JPEG - PNG - GIF
 
-Or resize fast any image to any size!
+The tool also allow you to resize fast any image to any size you want!
 
 -Made with AutoHotKey + ImageMagick-
 
