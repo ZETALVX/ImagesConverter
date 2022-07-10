@@ -11,6 +11,9 @@ You can convert multiple images at the same time selecting more files!
 
 -Made with AutoHotKey + ImageMagick-
 
+Tutorial:
+https://www.youtube.com/watch?v=w_pKSW_aM3E
+
 ![icnews](https://user-images.githubusercontent.com/19651044/178154473-d6ef7c9f-d972-414d-b316-032fb6367a39.PNG)
 
 Copyright: ZetaLvX
