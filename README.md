@@ -1,4 +1,4 @@
-# ImagesConverter
+# ImagesConverter - Version 0.3
 ImagesConverter is a free Windows Tool that allows you to convert any image to different format ,change size and create animated Gifs from multiple images.. with a click!
 
 You can change the format of any images in:
